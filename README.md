@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I am a
 Homeopathic Doctor & Full stack Web Developer by profession with multiple interests...
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reun100e&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
