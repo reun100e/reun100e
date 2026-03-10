@@ -1,4 +1,12 @@
-I am a Homeopathic Doctor & Full stack Web Developer by profession with multiple interests...
+<p align="center">
+  <a href="https://www.aghosh.in">
+  <img src="https://www.aghosh.in/og-image.png">
+  </a>
+</p>
+
+I am a Doctor specialised in Homeopathy & Full-stack AI/ML Web Engineer. My aim is to bridge Medicine & Technology using Innovative & Evidence-based methods for social welfare.
+
+## 🌐 My website: [aghosh.in](https://www.aghosh.in)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reun100e&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
